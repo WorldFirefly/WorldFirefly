@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TheAlgorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">What I'm interested in...
+<h3 align="center">What I'm interested in...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
