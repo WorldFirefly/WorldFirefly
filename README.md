@@ -2,15 +2,18 @@
 <h2 align="center">Hi there 👋</h2>
 <h3 align="center">Welcome to my page!</h3>
 
-
+<h3 align="center">What I learned in school...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TheAlgorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>&nbsp
 </p>
+<h3 align="center">What I'm interested in...
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
@@ -23,9 +26,10 @@
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
+  <div align="center">
   <img src="https://render.gitanimals.org/farms/{WorldFirefly}"/>
+  </div>
 </a>
-
 <!--
 **WorldFirefly/WorldFirefly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
