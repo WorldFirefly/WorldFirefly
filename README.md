@@ -2,6 +2,7 @@
 <h2 align="center">Hi there 👋</h2>
 <h3 align="center">Welcome to my page!</h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -17,6 +18,9 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
 </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{WorldFirefly}"/>
+</a>
 
 <!--
 **WorldFirefly/WorldFirefly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
