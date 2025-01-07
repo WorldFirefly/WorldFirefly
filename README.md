@@ -33,7 +33,9 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=NgRx&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=Flux&logoColor=white"/></a>&nbsp
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
+</p>
 
 ## Its my contribution farm from gitanimals
 <a href="https://github.com/devxb/gitanimals">
