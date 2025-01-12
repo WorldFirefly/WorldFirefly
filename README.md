@@ -3,12 +3,12 @@
 </div>
 <h1 align="center">Hi there👋</h2>
 <h2 align="center">Welcome to my page!</h3>
-<h4 align="center">Are you a beginner like me?🫣
+<h4 align="center">Are you a beginner like me?
 <br>
 Then study with me and follow my track!</h4>
 
 >[!NOTE]
->$${\color{blue}Only \space FOLLOWERS \space could \space see \space my \space repositories}$$
+>$${\color{blue}Only \space FOLLOWERS \space can \space see \space my \space study \space logs}$$
 
 
 <h3 align="center">What I learn in school...📚</h3>
@@ -35,7 +35,7 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=NgRx&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=Flux&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">My Tool 🛠️</h3>
+<h3 align="center">My Tools 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
