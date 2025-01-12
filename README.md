@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/46d4a8ec-225f-42b1-b3c4-6f1e80abced9" width="1000px" height="400px">
 </div>
-<h1 align="center">Hi there!👋</h2>
+<h1 align="center">Hi there👋</h2>
 <h2 align="center">Welcome to my page!</h3>
 <h4 align="center">Are you a beginner like me?🫣
 <br>
