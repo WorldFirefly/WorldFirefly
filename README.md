@@ -3,12 +3,9 @@
 </div>
 <h1 align="center">Hi there👋</h2>
 <h2 align="center">Welcome to my page!</h3>
-<h4 align="center">Are you a beginner like me?
-<br>
+<h4 align="center">Are you a beginner like me?<br>
 Then study with me and follow my track!</h4>
 
->[!NOTE]
->$${\color{blue}Only \space FOLLOWERS \space can \space see \space my \space study \space logs}$$
 
 
 <h3 align="center">What I learn in school...📚</h3>
@@ -42,6 +39,11 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 </p>
 
+>[!NOTE]
+>$${\color{blue}Only \space FOLLOWERS \space can \space see \space my \space study \space logs}$$
+
+<h3 align="center">⬇️ My Contribution Check ⬇️</h3>
+<hr>
 <a href="https://github.com/devxb/gitanimals">
   <div align="center">
     <img src="https://render.gitanimals.org/farms/{WorldFirefly}"/>
