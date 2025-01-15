@@ -35,12 +35,10 @@ Then study with me and follow my track!</h4>
 <h3 align="center">My Tools 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 </p>
-
->[!NOTE]
->$${\color{blue}Only \space FOLLOWERS \space can \space see \space my \space study \space logs}$$
 
 <h3 align="center">⬇️ My Contribution Check ⬇️</h3>
 <hr>
