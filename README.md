@@ -20,6 +20,7 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/TheAlgorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">What I'm interested in...👀</h3>
 <p align="center">
