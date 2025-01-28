@@ -16,6 +16,7 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TheAlgorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
@@ -25,10 +26,12 @@ Then study with me and follow my track!</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon-DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=NgRx&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=Flux&logoColor=white"/></a>&nbsp
 </p>
