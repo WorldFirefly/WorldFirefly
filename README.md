@@ -3,8 +3,7 @@
 </div>
 <h1 align="center">Hi there👋</h2>
 <h2 align="center">Welcome to my page!</h3>
-<h4 align="center">Are you a beginner like me?<br>
-Then study with me and follow my track!</h4>
+<h3 align="center">I'm a beginner dreaming a Full-stack developer👩🏻‍💻</h3>
 
 
 
