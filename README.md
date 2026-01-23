@@ -15,13 +15,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/TheAlgorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
@@ -40,12 +37,13 @@
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">My Tools 🛠️</h3>
+<h3 align="center">🛠️ My Tools 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/iterm2-000000?style=flat-square&logo=iterm2&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Autodesk-000000?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VisualStudioCode-5277C3?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
 </p>
 
